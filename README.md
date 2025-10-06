@@ -1,7 +1,7 @@
 # EEG4MI-Pipeline
 
 
-A work-in-progress **signal processing and classification pipeline for four-classes of hand movements using EEG motor imagery that is made usable by preventing the Midas Touch problem**.
+A work-in-progress **signal processing and classification pipeline for four-classes of hand movements using EEG motor imagery that is made usable by adding a "non-intentional command" class**.
 
 ---
 
