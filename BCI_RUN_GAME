@@ -1,0 +1,1 @@
+this is a python file which reads the edf file, then takes up the trained model to classify the "left" and "right" signal with a rest stage. then it controls the hill climb racing game.
